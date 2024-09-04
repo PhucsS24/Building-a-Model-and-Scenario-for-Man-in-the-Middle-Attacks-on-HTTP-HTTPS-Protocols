@@ -38,5 +38,5 @@
 - **Truy cập máy Administrator**: Sau khi có được password, attacker sử dụng PsExec để kết nối đến CMD của máy Administrator với quyền cao nhất, sau đó sử dụng Mimikatz để khai thác dữ liệu như thông tin trong AD bao gồm username, password của tất cả user trong AD, thông tin group, và dữ liệu lưu trữ local.
 
 ## II. Demo
-- **Video Demo:** [Link YouTube](https://youtu.be/IWP9YrvPCXA)
+- **Video Demo:** [Link YouTube](https://youtu.be/nBdI-ZD9HwA)
 - **Report:** [Link PDF](./assets/report/[NT205.O11.ANTT]_[Nhom9]_Final-report.pdf)
