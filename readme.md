@@ -29,7 +29,7 @@
 - Psexec.py, Mimikatz
 
 ### 4. Mô hình
-![Model Diagram](link_to_your_image)
+![Model Diagram](.assets/images)
 
 ### 5. Tổng quan kịch bản
 - **Footprinting**: Sử dụng Zenmap để thu thập thông tin các máy trong mạng và phát hiện ra các máy và các dịch vụ trong AD.
