@@ -39,4 +39,4 @@
 
 ## II. Demo
 - **Video Demo:** [Link YouTube](link_to_your_video)
-- **Report:** [Link PDF](link_to_your_report)
+- **Report:** [Link PDF](./assets/report/[NT205.O11.ANTT]_[Nhom9]_Final-report.pdf)
